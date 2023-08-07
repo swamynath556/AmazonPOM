@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-31T18:34:15 IST" name="Suite" finished-at="2023-07-31T18:34:39 IST" duration-ms="23934">
+    <groups>
+    </groups>
+    <test started-at="2023-07-31T18:34:15 IST" name="Test" finished-at="2023-07-31T18:34:39 IST" duration-ms="23934">
+      <class name="com.amazon.mavenPOM.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.mavenPOM.HomePageTest@3754a4bf]" started-at="2023-07-31T18:34:15 IST" name="setUp" finished-at="2023-07-31T18:34:39 IST" duration-ms="23437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkSearchBar()[pri:1, instance:com.amazon.mavenPOM.HomePageTest@3754a4bf]" started-at="2023-07-31T18:34:39 IST" name="checkSearchBar" finished-at="2023-07-31T18:34:39 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSearchBar -->
+        <test-method signature="checkSignIn()[pri:2, instance:com.amazon.mavenPOM.HomePageTest@3754a4bf]" started-at="2023-07-31T18:34:39 IST" name="checkSignIn" finished-at="2023-07-31T18:34:39 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSignIn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.mavenPOM.HomePageTest@3754a4bf]" started-at="2023-07-31T18:34:39 IST" name="tearDown" finished-at="2023-07-31T18:34:39 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.mavenPOM.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
